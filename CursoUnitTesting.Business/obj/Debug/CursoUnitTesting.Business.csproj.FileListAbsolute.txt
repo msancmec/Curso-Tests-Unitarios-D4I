@@ -1,0 +1,6 @@
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\obj\Debug\CursoUnitTesting.Business.csproj.CoreCompileInputs.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\bin\Debug\CursoUnitTesting.Business.dll
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\bin\Debug\CursoUnitTesting.Business.pdb
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\obj\Debug\CursoUnitTesting.Business.dll
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\obj\Debug\CursoUnitTesting.Business.pdb
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.Business\obj\Debug\CursoUnitTesting.Business.csprojAssemblyReference.cache

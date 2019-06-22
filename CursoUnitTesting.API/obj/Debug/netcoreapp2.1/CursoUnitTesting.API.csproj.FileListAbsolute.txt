@@ -1,0 +1,17 @@
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.API.deps.json
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.API.runtimeconfig.json
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.API.runtimeconfig.dev.json
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.API.dll
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.API.pdb
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.csprojAssemblyReference.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.csproj.CoreCompileInputs.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.RazorAssemblyInfo.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.RazorAssemblyInfo.cs
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.AssemblyInfoInputs.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.AssemblyInfo.cs
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.RazorTargetAssemblyInfo.cache
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.csproj.CopyComplete
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.dll
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\obj\Debug\netcoreapp2.1\CursoUnitTesting.API.pdb
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.Business.dll
+C:\Users\msancmec\Proyectos\Curso Test Unitarios xUnit 2019\CursoUnitTesting.API\CursoUnitTesting.API\bin\Debug\netcoreapp2.1\CursoUnitTesting.Business.pdb
